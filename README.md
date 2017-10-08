@@ -18,3 +18,5 @@ Usage
 
     This examples functions run on Update you can move this function where you need to improve the performance
     
+Developed by Johnatan Botero
+johnatan@nibostudio.com
